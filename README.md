@@ -25,4 +25,4 @@
 
 - 006：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/006 )。
 
-# - 声明：美国节点速度节点最快！
+# - 声明：美国节点，速度最快！！！
