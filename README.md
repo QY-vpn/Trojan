@@ -1,7 +1,7 @@
 # README
 # 免费Trojan账号，永不过期！！！
 
-# 不限时长，每个账号限流量**20GB**
+# 不限时长，每个账号限流量20GB
 
 - 支持平台：V2ray/Qv2ray/WinXray/Clash/Trojan
 
