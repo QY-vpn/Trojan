@@ -9,14 +9,16 @@
 
 # 我会在每个月的月初5号左右更新订阅链接，每个链接里只有一个Trojan账号，不限时间，永不过期！！！
 
-- 001：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+# 订阅链接示例参考！如下：
 
-- 002：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+- 001：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/001)。
 
-- 003：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+- 002：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/002)。
 
-- 004：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+- 003：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/003)。
 
-- 005：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+- 004：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/004)。
 
-- 006：[订阅链接]---> (https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+- 005：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/005)。
+
+- 006：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/006)。
