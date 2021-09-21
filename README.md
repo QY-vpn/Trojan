@@ -11,14 +11,14 @@
 
 # 订阅链接示例参考！如下：
 
-- 001：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/001)。
+- 001：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/001 )。
 
-- 002：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/002)。
+- 002：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/002 )。
 
-- 003：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/003)。
+- 003：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/003 )。
 
-- 004：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/004)。
+- 004：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/004 )。
 
-- 005：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/005)。
+- 005：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/005 )。
 
-- 006：[订阅链接]---> (https://raw.githubusercontent.com/QY-vpn/Trojan/master/006)。
+- 006：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/006 )。
