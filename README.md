@@ -1,7 +1,7 @@
 # README
-# 免费Trojan账号，永不过期！！！
+# 免费Trojan账号，美国、法国，永不过期！！！
 
-# 不限时长，每个账号限流量20GB
+# 不限时长，每个账号限流量20GB【少数是10GB、15GB】
 
 - 支持平台：V2ray/Qv2ray/WinXray/Clash/Trojan
 
@@ -24,3 +24,5 @@
 - 005：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/005 )。
 
 - 006：[订阅链接]---> ( https://raw.githubusercontent.com/QY-vpn/Trojan/master/006 )。
+
+#- 注明：美国节点速度节点最快！
