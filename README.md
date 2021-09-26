@@ -3,7 +3,7 @@
 
 # 不限时长，每个账号限流量20GB【少数是10GB、15GB】
 
-- 支持平台：V2ray/Qv2ray/WinXray/Clash/Trojan
+- 支持平台：V2ray/Qv2ray/WinXray/Trojan/Clash.NET
 
 # 不用担心流量用完怎么办？请往下看！！！
 
